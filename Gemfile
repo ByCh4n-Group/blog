@@ -1,6 +1,3 @@
-gem("gemspec")
-gem("initialize")
-gem("configure_theme")
 gem("faraday-retry")
 gem("webrick")
 gem("jekyll")
