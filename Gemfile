@@ -1,4 +1,5 @@
 gem("faraday-retry")
 gem("webrick")
+gem("kramdown-parser-gfm")
 gem("jekyll")
-gem("beautiful-jekyll-theme")
+gem("jekyll-theme-hyde")
