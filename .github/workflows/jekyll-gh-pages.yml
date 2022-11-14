@@ -28,7 +28,7 @@ jobs:
       - name: Get Gems
         uses: actions/setup-ruby@v1
         with:
-          ruby-version: 3.0
+          ruby-version: 2.6.x
         run: |
           bundle install
       - name: Checkout
